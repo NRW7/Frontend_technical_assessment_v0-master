@@ -8,7 +8,7 @@
 function takeOrder(order, orderArray) {
     // Please write your code here
     order = 
-    orderArray = 
+    orderArray =
 }
 
 
